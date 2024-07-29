@@ -105,7 +105,7 @@ O jogo possui quatro cômodos onde a interação ocorre:
 ## Minhas impressões
   O projeto foi um desafio e tanto. Pude experienciar uma nova abordagem em como relacionar objetos para que todos
   os itens e personagens pudessem interagir entre si. A ideia, por incrível que pareça, surgiu enquanto eu estava escovando
-  os dentes :D\n
+  os dentes :D
   Tenho orgulho do que construí, agradeço pelo aprendizado fornecido pela #iTalents e seguirei a todo vapor em minha constante melhora como desenvolvedor!
 
 
