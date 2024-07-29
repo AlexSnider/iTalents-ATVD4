@@ -42,7 +42,7 @@ O jogo possui quatro cômodos onde a interação ocorre:
   - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
   - `porao`: Simula a interação de Tom no porão, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
 
-### A lógica se repete em todos os cômodos, apenas divergindo em como irá acontecer nos encontros entre os personagens.
+#### A lógica se repete em todos os cômodos, apenas divergindo em como irá acontecer nos encontros entre os personagens.
 
 ### Funções Utilitárias
 
