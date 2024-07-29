@@ -80,6 +80,10 @@ O jogo possui quatro cômodos onde a interação ocorre:
   Iniciar o Jogo: Execute node index.js para iniciar o jogo e selecione o cômodo onde Tom vai procurar por Jerry.
   Interagir com o Jogo: Siga as instruções no console para interagir com o jogo, como jogar itens em Jerry e lidar com armadilhas, além de usar ou não Buffs em tom.
 
+## Fluxograma do jogo
+
+Link no [Miro](https://miro.com/app/board/uXjVKxXXmT4=/).
+
 ## Minhas impressões
   O projeto foi um desafio e tanto. Pude experienciar uma nova abordagem em como relacionar objetos para que todos
   os itens e personagens pudessem interagir entre si. A ideia, por incrível que pareça, surgiu enquanto eu estava escovando
