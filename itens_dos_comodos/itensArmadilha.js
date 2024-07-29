@@ -1,31 +1,31 @@
 // Define os itens e danos disponíveis em diferentes ambientes
 const sala = [
-  { item: "pé de cabra", dano: 25 },
+  { item: "pé de cabra", dano: 35 },
   { item: "tachinhas", dano: 25 },
   { item: "caco de vidro", dano: 25 }
 ];
 
 const cozinha = [
   { item: "prato quebrado", dano: 25 },
-  { item: "fio de energia solto", dano: 25 },
+  { item: "fio de energia solto", dano: 35 },
   { item: "maionese melecosa", dano: 25 }
 ];
 
 const quarto = [
   { item: "carrinho de controle remoto", dano: 25 },
   { item: "linha de pipa embaraçada", dano: 25 },
-  { item: "sapato com espinho", dano: 25 }
+  { item: "sapato com espinho", dano: 35 }
 ];
 
 const porao = [
-  { item: "bolinhas de gude", dano: 25 },
+  { item: "bolinhas de gude", dano: 35 },
   { item: "prateleira pensa", dano: 25 },
   { item: "graxa colante", dano: 25 }
 ];
 
 const sotao = [
   { item: "caixa cheia de pó", dano: 25 },
-  { item: "luzes de natal ultra piscantes", dano: 25 },
+  { item: "luzes de natal ultra piscantes", dano: 35 },
   { item: "cola velha", dano: 25 }
 ];
 
