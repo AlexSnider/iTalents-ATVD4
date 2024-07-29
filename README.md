@@ -23,6 +23,7 @@ Desafio do bootcamp back-end Node.js promovido pela iTalents. O projeto refere-s
 ### Menu Principal
 - Exibe o menu principal com opções para:
   - Introdução do funcionamento do jogo.
+  - Apresenta alternativas para tom tomar Buffs antes da caça iniciar.
   - Iniciar o jogo em um cômodo específico (porão, quarto, sala ou sótão ou cozinha).
   - Sair do jogo.
 
@@ -77,8 +78,8 @@ O jogo possui quatro cômodos onde a interação ocorre:
    node script.js || npm start
 
 ## Jogabilidade
-  Iniciar o Jogo: Execute node script.js para iniciar o jogo e selecione o cômodo onde Tom vai procurar por Jerry.
-  Interagir com o Jogo: Siga as instruções no console para interagir com o jogo, como jogar itens em Jerry e lidar com armadilhas.
+  Iniciar o Jogo: Execute node index.js para iniciar o jogo e selecione o cômodo onde Tom vai procurar por Jerry.
+  Interagir com o Jogo: Siga as instruções no console para interagir com o jogo, como jogar itens em Jerry e lidar com armadilhas, além de usar ou não Buffs em tom.
 
 ## Minhas impressões
   O projeto foi um desafio e tanto. Pude experienciar uma nova abordagem em como relacionar objetos para que todos
