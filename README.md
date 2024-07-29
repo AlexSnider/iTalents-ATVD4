@@ -20,7 +20,7 @@ Desafio do bootcamp back-end Node.js promovido pela iTalents. O projeto refere-s
 
 ## Funcionalidades
 
-### Menu Principal
+### Menu Principal (sequencial)
 - Exibe o menu principal com opções para:
   - Introdução do funcionamento do jogo.
   - Apresenta alternativas para tom tomar Buffs antes da caça iniciar.
@@ -33,11 +33,10 @@ O jogo possui quatro cômodos onde a interação ocorre:
 - **Quarto**
 - **Sala**
 - **Sótão**
-- **cozinha**
+- **Cozinha**
 
 ### Interações no Jogo
 
-#### 1. **Porão**
 - **Objetivo**: Tom tenta encontrar e acertar Jerry com um item encontrado no porão.
 - **Funções**:
   - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
@@ -84,7 +83,7 @@ O jogo possui quatro cômodos onde a interação ocorre:
 ## Minhas impressões
   O projeto foi um desafio e tanto. Pude experienciar uma nova abordagem em como relacionar objetos para que todos
   os itens e personagens pudessem interagir entre si. A ideia, por incrível que pareça, surgiu enquanto eu estava escovando
-  os dentes :D
+  os dentes :D.
   Tenho orgulho do que construí, agradeço pelo aprendizado fornecido pela #iTalents e seguirei a todo vapor em minha constante melhora como desenvolvedor!
 
 
