@@ -42,29 +42,7 @@ O jogo possui quatro cômodos onde a interação ocorre:
   - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
   - `porao`: Simula a interação de Tom no porão, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
 
-#### 2. **Quarto**
-- **Objetivo**: Tom tenta encontrar e acertar Jerry com um item encontrado no quarto.
-- **Funções**:
-  - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
-  - `quarto`: Simula a interação de Tom no quarto, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
-
-#### 3. **Sala**
-- **Objetivo**: Tom tenta encontrar e acertar Jerry com um item encontrado na sala.
-- **Funções**:
-  - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
-  - `sala`: Simula a interação de Tom na sala, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
-
-#### 4. **Sótão**
-- **Objetivo**: Tom tenta encontrar e acertar Jerry com um item encontrado no sótão.
-- **Funções**:
-  - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
-  - `sotao`: Simula a interação de Tom no sótão, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
-
-#### 5. **Cozinha**
-- **Objetivo**: Tom tenta encontrar e acertar Jerry com um item encontrado no cozinha.
-- **Funções**:
-  - `perguntarSeJogarItem`: Pergunta ao jogador se deseja jogar o item encontrado em Jerry.
-  - `sotao`: Simula a interação de Tom na cozinha, verificando a presença de Jerry, lidando com armadilhas e aplicando o dano se Tom acertar Jerry.
+### A lógica se repete em todos os cômodos, apenas divergindo em como irá acontecer nos encontros entre os personagens.
 
 ### Funções Utilitárias
 
